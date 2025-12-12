@@ -42,3 +42,6 @@ git push
 
 >> To create a new branch
 git checkout -b "branchName"
+
+>> To switch the branch
+git checkout "branchNameToBeOpened"
