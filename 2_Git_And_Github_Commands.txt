@@ -1,0 +1,41 @@
+Git >> Version Control
+
+    V1
+    V2
+    V3
+new V4
+
+>> It is distributed (on Cloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+https://git-scm.com/install/windows
+
+GitHub
+BitBucket
+GitLabs
+GitPod
+
+* Commands:
+
+>> For 1st time need to configure github in our system
+git config --global user.name "avdheshpatel9203"
+git config --global user.email "avdheshsp9203@gmail.com"
+
+git config --global color.ui auto
+
+* Mendatory Commands:
+>> git init
+>> git remote add origin https://github.com/avdheshpatel9203/GitDemo.git
+
+
+>> To pull from GitHub repositories
+git pull origin main
+git status
+
+>> To push to GitHub repositories
+git add .          or          git add 1_Funda_of_Web_Tech.txt 2_Git_And_Github_Commands.txt
+git status
+git commit -m "Commit Message"
+git push 
