@@ -45,3 +45,9 @@ git checkout -b "branchName"
 
 >> To switch the branch
 git checkout "branchNameToBeOpened"
+
+>> To clone file/folder
+git clone https://github.com/avdheshpatel9203/GitDemo.git
+Note: Open folder in which the file/folder is to be cloned
+      Open CMD prompt using same folder Path
+      write the command given above
