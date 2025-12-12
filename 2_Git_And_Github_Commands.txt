@@ -39,3 +39,6 @@ git add .          or          git add 1_Funda_of_Web_Tech.txt 2_Git_And_Github_
 git status
 git commit -m "Commit Message"
 git push 
+
+>> To create a new branch
+git checkout -b "branchName"
